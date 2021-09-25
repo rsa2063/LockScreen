@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="lock_desc">lock_desc</string>
+    <!--<string name="message">test!!</string>-->
+    <string name="sample_device_admin_description">lock screen</string>
+    <string name="sample_device_admin">LockScreen</string>
+</resources>
